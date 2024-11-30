@@ -1,2 +1,6 @@
-x = "1"
-y = "2"
+all_votes = [
+    0, 0, 3, 1, 1, 8, 0, 5, 0, 0,
+    0, 5, 5, 0, 2, 6, 0, 3, 1, 0
+]
+commitments = ["0x7f67681CE8c292BbbeF0cCfa1475d9742b6AB3AC", "0x00460a935F4BEc78AD50396c8ccbE3c21EcD10C0"]
+secrets = ["0x00460a935F4BEc78AD50396c8ccbE3c21EcD10C0", "0x7f67681CE8c292BbbeF0cCfa1475d9742b6AB3AC"]

@@ -1,6 +1,6 @@
 [package]
 name = "quadratic_voting"
 type = "bin"
-authors = [""]
+authors = ["Yash Sharma <iamyxsh@icloud.com>"]
 
 [dependencies]
